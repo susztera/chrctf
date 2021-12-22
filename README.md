@@ -13,6 +13,7 @@ The challenge directories should contain:
 
 Example
 
+```bash
 > tree
 .
 ├── example_challenge
@@ -40,3 +41,4 @@ Example
 |   |   |   ├── README.md
 │   │   │   └── solve.py
 │   │   └── start.sh
+```
